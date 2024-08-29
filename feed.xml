@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="isaiahwp.github.io" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage</title>
+    <link>isaiahwp.github.io</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Blogging about random stuff</description>
+    <language>en</language>
+    <item>
+      <title>Blog</title>
+      <link>/blog/</link>
+      <description>&lt;h2&gt;Blog Posts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;p&gt;&lt;li&gt;&lt;a href=&quot;/blog/&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+&lt;p&gt;&lt;li&gt;&lt;a href=&quot;/blog/strategy/&quot;&gt;Strategy&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Thu, 29 Aug 2024 08:32:18 +0000</pubDate>
+      <dc:creator>Isaiah Harrison</dc:creator>
+      <guid>/blog/</guid>
+    </item>
+    <item>
+      <title>Strategy</title>
+      <link>/blog/strategy/</link>
+      <description>&lt;p&gt;Competitive gaming is only good when you do it for fun. An appreciation for
+improvement of a niche skill.&lt;/p&gt;
+&lt;p&gt;Pray for the competitive game you are playing implement an invasive kernel anti
+cheat.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <dc:creator>Isaiah Harrison</dc:creator>
+      <guid>/blog/strategy/</guid>
+    </item>
+  </channel>
+</rss>
